@@ -1,6 +1,6 @@
 # Simple-Block-Chain
 This is a JavaScript code that can be executed on a node enviroment to explain blockchain. Its a simple implementation of a Blockchain
-It covers,
+It covers
 * Creation of a block
 * Addition of block data
 * Creation of a blockchain
